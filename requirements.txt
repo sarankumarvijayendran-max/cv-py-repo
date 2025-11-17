@@ -1,0 +1,8 @@
+PyPDF2
+google.generativeai
+pymongo
+base64
+streamlit_pdf_viewer
+numpy
+streamlit
+
